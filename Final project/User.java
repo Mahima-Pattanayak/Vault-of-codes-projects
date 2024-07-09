@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class User{
+public class User {
     private String username;
     private String password; // For simplicity, not secure in real applications
     private List<Post> posts;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BlogPlatformApp{
+public class BlogPlatformApp {
     private static Blog blog = new Blog();
     private static Scanner scanner = new Scanner(System.in);
 

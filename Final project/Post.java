@@ -2,7 +2,7 @@ import java.util.Date;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Post {
+public class Post{
     private String title;
     private String content;
     private String author;

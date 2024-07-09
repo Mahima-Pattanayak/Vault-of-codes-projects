@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Blog{
+public class Blog {
     private List<User> users;
     private List<Post> posts;
 
